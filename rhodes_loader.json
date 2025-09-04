@@ -1,0 +1,14 @@
+{
+    "lordhazey": {
+        "subscription": 30,
+        "banned": 0
+    },
+    "Porchetta": {
+        "subscription": 0,
+        "banned": 0
+    },
+    "BadUser": {
+        "subscription": 0,
+        "banned": 1
+    }
+}
